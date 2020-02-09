@@ -20,3 +20,12 @@ If there was any data, it would return an alert window that contained data.
 
 ![image](https://i.imgur.com/rFCCp5l.png)
 
+## Used Libraries:
+### Front-End
+- vue2-datepicker
+- Axios
+- Vuelidate
+
+### Back-End
+- Express
+- Sequelize
